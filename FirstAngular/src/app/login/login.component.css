@@ -1,0 +1,30 @@
+form {
+    background-color: rgb(144, 206, 182);
+    margin: 0 auto;
+    padding: 20px;
+    width: 500px;
+}
+form h2 {
+    text-align: center;
+}
+input[type="password"],input[type="email"]{
+ box-sizing: border-box;
+ width: 100%;
+ margin-top: 10px;
+ margin-bottom: 10px;
+ padding: 10px 10px;
+ border: 1px solid gray;
+}
+input[type="submit"]{
+    background-color: rgb(5, 129, 201);
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px 10px;
+    color: honeydew;
+    border: 0px;
+}
+.frg{
+    float: right;
+    padding-top: 15px;
+}
